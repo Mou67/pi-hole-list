@@ -1,0 +1,22 @@
+! Titel: Mou67 – Samsung Smart TV (Werbung, ACR-Tracking, Telemetrie)
+! Format: Adblock-Syntax (||domain^ sperrt die Domain inkl. aller Subdomains)
+! Pi-hole v6 versteht dieses Format direkt.
+!
+! --- Werbung ---
+||samsungads.com^
+||samsungadhub.com^
+||ads.samsung.com^
+||samsungtifa.com^
+!
+! --- ACR (automatische Inhaltserkennung: was du schaust) ---
+||samsungacr.com^
+||acr0.samsungcloudsolution.com^
+!
+! --- Analytics / Tracking ---
+||samsung-com.112.2o7.net^
+||analytics.samsungknox.com^
+||samsung-analytics.com^
+!
+! --- OPTIONAL: Firmware-Updates blockieren ---
+! Nur aktivieren (das "!" entfernen), wenn der TV KEINE Updates mehr laden soll.
+! ||samsungotn.net^
