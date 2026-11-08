@@ -28,6 +28,7 @@
 ||googleads4.g.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
+||pagead.l.doubleclick.net^
 ||pagead2.googlesyndication.com^
 ||static.doubleclick.net^
 ||stats.g.doubleclick.net^
