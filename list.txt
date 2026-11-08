@@ -24,6 +24,7 @@
 ! --- Per Erweiterung hinzugefügt ---
 ! 2026-11-08 manuell hinzugefügt
 ||ad.doubleclick.net^
+||googleads4.g.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
 ||pagead2.googlesyndication.com^
