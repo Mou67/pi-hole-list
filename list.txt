@@ -25,4 +25,5 @@
 ! 2026-11-08 manuell hinzugefügt
 ||ad.doubleclick.net^
 ||pagead2.googlesyndication.com^
+||static.doubleclick.net^
 ||stats.g.doubleclick.net^
