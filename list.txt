@@ -20,3 +20,7 @@
 ! --- OPTIONAL: Firmware-Updates blockieren ---
 ! Nur aktivieren (das "!" entfernen), wenn der TV KEINE Updates mehr laden soll.
 ! ||samsungotn.net^
+!
+! --- Per Erweiterung hinzugefügt ---
+! 2026-11-08 manuell hinzugefügt
+||pagead2.googlesyndication.com^
