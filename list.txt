@@ -30,6 +30,7 @@
 ||mediavisor.doubleclick.net^
 ||pagead.l.doubleclick.net^
 ||pagead2.googlesyndication.com^
+||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 ||static.doubleclick.net^
 ||stats.g.doubleclick.net^
