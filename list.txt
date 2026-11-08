@@ -21,9 +21,11 @@
 ! Nur aktivieren (das "!" entfernen), wenn der TV KEINE Updates mehr laden soll.
 ! ||samsungotn.net^
 !
-! --- Per Erweiterung hinzugefügt ---
+! --- Google-Werbung (Doubleclick / Syndication) ---
 ! 2026-11-08 manuell hinzugefügt
 ||ad.doubleclick.net^
+||adclick.g.doubleclick.net^
+||cm.g.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||googleads4.g.doubleclick.net^
 ||m.doubleclick.net^
@@ -34,3 +36,15 @@
 ||securepubads.g.doubleclick.net^
 ||static.doubleclick.net^
 ||stats.g.doubleclick.net^
+!
+! --- Tracking / Drittanbieter ---
+! 2026-11-08 manuell hinzugefügt
+||rudderstack.com^
+||clientstream.launchdarkly.com^
+!
+! Achtung: blockt Support-Chat-Fenster (Intercom) auf vielen Websites.
+||widget.intercom.io^
+!
+! Achtung: JW Player – kann Videos auf Nachrichten-/Streaming-Seiten kaputt machen.
+! Wenn Videos nicht mehr laden: diese Zeile mit "!" auskommentieren.
+||ssl.p.jwpcdn.com^
