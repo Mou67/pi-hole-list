@@ -41,6 +41,10 @@
 ! 2026-11-08 manuell hinzugefügt
 ||rudderstack.com^
 ||clientstream.launchdarkly.com^
+||click.mailchimp.com^
+!
+! Achtung: blockt Web-Push-Benachrichtigungen (OneSignal) auf vielen Websites.
+||api.onesignal.com^
 !
 ! Achtung: blockt Support-Chat-Fenster (Intercom) auf vielen Websites.
 ||widget.intercom.io^
