@@ -24,3 +24,4 @@
 ! --- Per Erweiterung hinzugefügt ---
 ! 2026-11-08 manuell hinzugefügt
 ||pagead2.googlesyndication.com^
+||stats.g.doubleclick.net^
